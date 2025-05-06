@@ -7,9 +7,9 @@ Welcome to my portfolio of mobile games developed with **Flutter**! This reposit
 These games represent my journey in **Flutter game development**, focusing on:
 - Creative gameplay mechanics
 - Sensor integration (like in *Bilonu*)
-- Google Maps API usage (*Neresi*)
-- Strategic puzzle elements (*Escape*, *Taktak*)
-- Narrative-driven sports simulation (*Career*)
+- Google Maps API usage (*Neresi?*)
+- Strategic puzzle elements (*Escape From The Virus*, *Taktak*)
+- Narrative-driven sports simulation (*My Footbal Career*)
 
 All games are designed to be **fun, replayable, and polished** - some are complete while others are still evolving. The screenshots demonstrate UI/UX approaches for different genres.
 
@@ -28,7 +28,16 @@ A **party game** using phone sensors:
 - Customizable via settings menu  
 
 **📱 Screenshots:**  
-![Bilonu 1](bilonu/bilonu1.png) ![Bilonu 2](bilonu/bilonu2.png) ![Bilonu 3](bilonu/bilonu3.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="bilonu/bilonu1.png" width="30%" />
+  <img src="bilonu/bilonu2.png" width="30%" />
+  <img src="bilonu/bilonu3.png" width="30%" />
+  <img src="bilonu/bilonu4.png" width="30%" />
+  <img src="bilonu/bilonu5.png" width="30%" />
+  <img src="bilonu/bilonu6.png" width="30%" />
+  <img src="bilonu/bilonu7.png" width="30%" />
+  <img src="bilonu/bilonu8.png" width="30%" />
+</div>
 
 ---
 
@@ -43,12 +52,21 @@ A **party game** using phone sensors:
 - Designed for high replayability with procedural events  
 
 **📱 Screenshots:**  
-![Career 1](career/career1.png) ![Career 2](career/career2.png) ![Career 3](career/career3.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="career/career1.png" width="30%" />
+  <img src="career/career2.png" width="30%" />
+  <img src="career/career3.png" width="30%" />
+  <img src="career/career4.png" width="30%" />
+  <img src="career/career5.png" width="30%" />
+  <img src="career/career6.png" width="30%" />
+  <img src="career/career7.png" width="30%" />
+  <img src="career/career8.png" width="30%" />
+</div>
 
 ---
 
 ### 3. Neresi?
-![Neresi Icon](neresi/neresi_icon.png)
+![Neresi Icon](neresi/neresi_icon.jpg)
 
 **Geography quiz** powered by Google Maps:  
 - Tests knowledge of countries, cities, landmarks, cultures, foods, and historical events  
@@ -57,7 +75,16 @@ A **party game** using phone sensors:
 - Expansible question database  
 
 **📱 Screenshots:**  
-![Neresi 1](neresi/neresi1.png) ![Neresi 2](neresi/neresi2.png) ![Neresi 3](neresi/neresi3.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="neresi/neresi1.png" width="30%" />
+  <img src="neresi/neresi2.png" width="30%" />
+  <img src="neresi/neresi3.png" width="30%" />
+  <img src="neresi/neresi4.png" width="30%" />
+  <img src="neresi/neresi5.png" width="30%" />
+  <img src="neresi/neresi6.png" width="30%" />
+  <img src="neresi/neresi7.png" width="30%" />
+  <img src="neresi/neresi8.png" width="30%" />
+</div>
 
 ---
 
@@ -71,12 +98,21 @@ A **party game** using phone sensors:
 - Balance limited resources against escalating threats  
 
 **📱 Screenshots:**  
-![Escape 1](escape/escape1.png) ![Escape 2](escape/escape2.png) ![Escape 3](escape/escape3.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="escape/escape1.png" width="30%" />
+  <img src="escape/escape2.png" width="30%" />
+  <img src="escape/escape3.png" width="30%" />
+  <img src="escape/escape4.png" width="30%" />
+  <img src="escape/escape5.png" width="30%" />
+  <img src="escape/escape6.png" width="30%" />
+  <img src="escape/escape7.png" width="30%" />
+  <img src="escape/escape8.png" width="30%" />
+</div>
 
 ---
 
 ### 5. Taktak
-![Taktak Icon](taktak/taktak_icon.png)
+![Taktak Icon](taktak/taktak_icon.jpg)
 
 **Match-3 puzzle game** with twists:  
 - Merge adjacent same-colored tiles  
@@ -86,12 +122,19 @@ A **party game** using phone sensors:
 - Progressive difficulty with new mechanics  
 
 **📱 Screenshots:**  
-![Taktak 1](taktak/taktak1.png) ![Taktak 2](taktak/taktak2.png) ![Taktak 3](taktak/taktak3.png)  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="taktak/taktak1.png" width="30%" />
+  <img src="taktak/taktak2.png" width="30%" />
+  <img src="taktak/taktak3.png" width="30%" />
+  <img src="taktak/taktak4.png" width="30%" />
+  <img src="taktak/taktak5.png" width="30%" />
+  <img src="taktak/taktak6.png" width="30%" />
+  <img src="taktak/taktak7.png" width="30%" />
+  <img src="taktak/taktak8.png" width="30%" />
+</div>
 
 ---
 
 ## 📬 Contact
 For collaborations or questions:  
-[Your Email] | [Your LinkedIn/Twitter]  
-
-*All game assets © [Your Name/Studio] - Unauthorized use prohibited*
+ardacopurbusiness@gmail.com  
