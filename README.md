@@ -20,7 +20,7 @@ All games are designed to be **fun, replayable, and polished** - some are comple
 
 ## 🎲 Game Showcase
 
-### 1. Bilonu
+### Bilonu
 <img src="bilonu/bilonu_icon.png" width="200" />
 
 A **party game** using phone sensors:  
@@ -54,7 +54,7 @@ A **party game** using phone sensors:
 
 ---
 
-### 2. My Football Career
+### My Football Career
 <img src="career/career_icon.png" width="200" />
 
 **AI-powered football** where you:  
@@ -79,7 +79,7 @@ A **party game** using phone sensors:
 
 ---
 
-### 3. Neresi?
+### Neresi?
 <img src="neresi/neresi_icon.jpg" width="200" />
 
 **Geography quiz** powered by Google Maps:  
@@ -107,7 +107,7 @@ A **party game** using phone sensors:
 
 ---
 
-### 4. Escape From The Virus
+### Escape From The Virus
 <img src="escape/escape_icon.png" width="200" />
 
 **Virus-themed strategy game**:  
@@ -138,7 +138,7 @@ A **party game** using phone sensors:
 
 ---
 
-### 5. Taktak
+### Taktak
 <img src="taktak/taktak_icon.jpg" width="200" />
 
 **Match-3 puzzle game** with twists:  
