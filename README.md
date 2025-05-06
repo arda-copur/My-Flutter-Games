@@ -21,7 +21,7 @@ All games are designed to be **fun, replayable, and polished** - some are comple
 ## 🎲 Game Showcase
 
 ### 1. Bilonu
-<img src="bilonu/bilonu_icon.png" width="150" />
+<img src="bilonu/bilonu_icon.png" width="200" />
 
 A **party game** using phone sensors:  
 - Player holds phone to their forehead while others describe the displayed word/phrase  
