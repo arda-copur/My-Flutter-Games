@@ -1,5 +1,7 @@
 # 🎮 My Flutter Game Collection
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 Welcome to my portfolio of mobile games developed with **Flutter**! This repository showcases five unique games, each with its own mechanics and entertainment value. While the source code isn't shared (as some are still in development or planned for Google Play release), you'll find all promotional assets and descriptions here.
 
 ## 📝 Description
