@@ -54,7 +54,7 @@ A **party game** using phone sensors:
 ### 2. My Football Career
 <img src="career/career_icon.png" width="150" />
 
-**AI-powered football RPG** where you:  
+**AI-powered football** where you:  
 - Guide a young footballer through dynamic storylines  
 - Manage relationships, social media, stats, and personality traits  
 - Experience endless scenarios with branching narratives  
