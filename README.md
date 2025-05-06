@@ -55,7 +55,7 @@ A **party game** using phone sensors:
 ---
 
 ### 2. My Football Career
-<img src="career/career_icon.png" width="150" />
+<img src="career/career_icon.png" width="200" />
 
 **AI-powered football** where you:  
 - Guide a young footballer through dynamic storylines  
@@ -80,7 +80,7 @@ A **party game** using phone sensors:
 ---
 
 ### 3. Neresi?
-<img src="neresi/neresi_icon.jpg" width="150" />
+<img src="neresi/neresi_icon.jpg" width="200" />
 
 **Geography quiz** powered by Google Maps:  
 - Tests knowledge of countries, cities, landmarks, cultures, foods, and historical events  
@@ -108,7 +108,7 @@ A **party game** using phone sensors:
 ---
 
 ### 4. Escape From The Virus
-<img src="escape/escape_icon.png" width="150" />
+<img src="escape/escape_icon.png" width="200" />
 
 **Virus-themed strategy game**:  
 - Protect healthy zones from spreading infection  
@@ -139,7 +139,7 @@ A **party game** using phone sensors:
 ---
 
 ### 5. Taktak
-<img src="taktak/taktak_icon.jpg" width="150" />
+<img src="taktak/taktak_icon.jpg" width="200" />
 
 **Match-3 puzzle game** with twists:  
 - Merge adjacent same-colored tiles  
