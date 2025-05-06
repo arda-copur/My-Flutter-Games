@@ -43,10 +43,10 @@ A **party game** using phone sensors:
   <img src="bilonu/bilonu12.png" width="30%" />
   <img src="bilonu/bilonu13.png" width="30%" />
   <img src="bilonu/bilonu14.png" width="30%" />
-  <img src="bilonu/bilonu15.png" width="30%" />
-  <img src="bilonu/bilonu16.png" width="30%" />
-  <img src="bilonu/bilonu17.png" width="30%" />
-  <img src="bilonu/bilonu18.png" width="30%" />
+  <img src="bilonu/bilonu15.png" width="40%" />
+  <img src="bilonu/bilonu16.png" width="40%" />
+  <img src="bilonu/bilonu17.png" width="40%" />
+  <img src="bilonu/bilonu18.png" width="40%" />
 </div>
 
 ---
