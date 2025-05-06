@@ -9,10 +9,10 @@ Welcome to my portfolio of mobile games developed with **Flutter**! This reposit
 
 These games represent my journey in **Flutter game development**, focusing on:
 - Creative gameplay mechanics
-- Sensor integration (like in *Bilonu*)
-- Google Maps API usage (*Neresi?*)
-- Strategic puzzle elements (*Escape From The Virus*, *Taktak*)
-- Narrative-driven sports simulation (*My Football Career*)
+- Sensor integration (like in **Bilonu**)
+- Google Maps API usage (**Neresi?**)
+- Strategic puzzle elements (**Escape From The Virus*, *Taktak**)
+- Narrative-driven sports simulation (**My Football Career**)
 
 All games are designed to be **fun, replayable, and polished** - some are complete while others are still evolving. The screenshots demonstrate UI/UX approaches for different genres.
 
