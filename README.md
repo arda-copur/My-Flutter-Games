@@ -9,7 +9,7 @@ These games represent my journey in **Flutter game development**, focusing on:
 - Sensor integration (like in *Bilonu*)
 - Google Maps API usage (*Neresi?*)
 - Strategic puzzle elements (*Escape From The Virus*, *Taktak*)
-- Narrative-driven sports simulation (*My Footbal Career*)
+- Narrative-driven sports simulation (*My Football Career*)
 
 All games are designed to be **fun, replayable, and polished** - some are complete while others are still evolving. The screenshots demonstrate UI/UX approaches for different genres.
 
@@ -18,7 +18,7 @@ All games are designed to be **fun, replayable, and polished** - some are comple
 ## 🎲 Game Showcase
 
 ### 1. Bilonu
-![Bilonu Icon](bilonu/bilonu_icon.png)
+<img src="bilonu/bilonu_icon.png" width="150" />
 
 A **party game** using phone sensors:  
 - Player holds phone to their forehead while others describe the displayed word/phrase  
@@ -37,12 +37,22 @@ A **party game** using phone sensors:
   <img src="bilonu/bilonu6.png" width="30%" />
   <img src="bilonu/bilonu7.png" width="30%" />
   <img src="bilonu/bilonu8.png" width="30%" />
+  <img src="bilonu/bilonu9.png" width="30%" />
+  <img src="bilonu/bilonu10.png" width="30%" />
+  <img src="bilonu/bilonu11.png" width="30%" />
+  <img src="bilonu/bilonu12.png" width="30%" />
+  <img src="bilonu/bilonu13.png" width="30%" />
+  <img src="bilonu/bilonu14.png" width="30%" />
+  <img src="bilonu/bilonu15.png" width="30%" />
+  <img src="bilonu/bilonu16.png" width="30%" />
+  <img src="bilonu/bilonu17.png" width="30%" />
+  <img src="bilonu/bilonu18.png" width="30%" />
 </div>
 
 ---
 
 ### 2. My Football Career
-![Career Icon](career/career_icon.png)
+<img src="career/career_icon.png" width="150" />
 
 **AI-powered football RPG** where you:  
 - Guide a young footballer through dynamic storylines  
@@ -61,12 +71,13 @@ A **party game** using phone sensors:
   <img src="career/career6.png" width="30%" />
   <img src="career/career7.png" width="30%" />
   <img src="career/career8.png" width="30%" />
+  <img src="career/career9.png" width="30%" />
 </div>
 
 ---
 
 ### 3. Neresi?
-![Neresi Icon](neresi/neresi_icon.jpg)
+<img src="neresi/neresi_icon.jpg" width="150" />
 
 **Geography quiz** powered by Google Maps:  
 - Tests knowledge of countries, cities, landmarks, cultures, foods, and historical events  
@@ -84,12 +95,17 @@ A **party game** using phone sensors:
   <img src="neresi/neresi6.png" width="30%" />
   <img src="neresi/neresi7.png" width="30%" />
   <img src="neresi/neresi8.png" width="30%" />
+  <img src="neresi/neresi9.png" width="30%" />
+  <img src="neresi/neresi10.png" width="30%" />
+  <img src="neresi/neresi11.png" width="30%" />
+  <img src="neresi/neresi12.png" width="30%" />
+  <img src="neresi/neresi13.png" width="30%" />
 </div>
 
 ---
 
 ### 4. Escape From The Virus
-![Escape Icon](escape/escape_icon.png)
+<img src="escape/escape_icon.png" width="150" />
 
 **Virus-themed strategy game**:  
 - Protect healthy zones from spreading infection  
@@ -107,12 +123,20 @@ A **party game** using phone sensors:
   <img src="escape/escape6.png" width="30%" />
   <img src="escape/escape7.png" width="30%" />
   <img src="escape/escape8.png" width="30%" />
+  <img src="escape/escape9.png" width="30%" />
+  <img src="escape/escape10.png" width="30%" />
+  <img src="escape/escape11.png" width="30%" />
+  <img src="escape/escape12.png" width="30%" />
+  <img src="escape/escape13.png" width="30%" />
+  <img src="escape/escape14.png" width="30%" />
+  <img src="escape/escape15.png" width="30%" />
+  <img src="escape/escape16.png" width="30%" />
 </div>
 
 ---
 
 ### 5. Taktak
-![Taktak Icon](taktak/taktak_icon.jpg)
+<img src="taktak/taktak_icon.jpg" width="150" />
 
 **Match-3 puzzle game** with twists:  
 - Merge adjacent same-colored tiles  
@@ -131,10 +155,11 @@ A **party game** using phone sensors:
   <img src="taktak/taktak6.png" width="30%" />
   <img src="taktak/taktak7.png" width="30%" />
   <img src="taktak/taktak8.png" width="30%" />
+  <img src="taktak/taktak9.png" width="30%" />
 </div>
 
 ---
 
 ## 📬 Contact
 For collaborations or questions:  
-ardacopurbusiness@gmail.com  
+📧 ardacopurbusiness@gmail.com  
